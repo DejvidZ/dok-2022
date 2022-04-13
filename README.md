@@ -1,1 +1,2 @@
-# dok-2022
+# Prvý repozitár v DOK
+Bude obsahovať stránku 
